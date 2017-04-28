@@ -1,0 +1,2 @@
+# Smart-Vendy
+Most people might agree that vending machines are one of the greatest inventions. They provide a convenient lunch option for those who forgot to bring theirs, carry a selection of beverages and can help sate rumbly stomachs with a light snack. They’re a valuable asset to any workspace or public property until they stop working, of course. In this project, it orders itself when snacks get out of stock in it. Customers can get through snacks through the cashless mode through RFID card
